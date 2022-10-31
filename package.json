@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "My first npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akalenikru/hexlet-js.git"
+  },
+  "author": "Anthony Kalenik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akalenikru/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/akalenikru/hexlet-js#readme"
+}
